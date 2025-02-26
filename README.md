@@ -29,13 +29,13 @@ The code is divided into several sections:
 - X_test: NumPy array containing the input values for prediction.
 - y_temp_pred, y_hum_pred, y_pre_pred, y_win_pred: NumPy arrays containing the predicted values.
 
-# Models:
+## Models:
 - model: Polynomial regression model used for predicting future weather conditions.
 
-# Visualizations:
+## Visualizations:
 - Interactive Plotly graphs displaying the weather data and predicted values.
 
-# Example Use Cases:
+## Example Use Cases:
 - Retrieve current weather data and 5-day forecasts for a specified location.
 - Analyze and visualize the retrieved weather data.
 - Predict future weather conditions using polynomial regression.
